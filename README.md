@@ -168,7 +168,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 Follow us on Twitter for the latest updates and announcements:
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/ScenaioAI?style=social)](https://x.com/ScenarioAgentAI)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ScenarioAI?style=social)](https://x.com/ScenarioAgentAI)
 
 ---
 
