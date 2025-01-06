@@ -157,7 +157,7 @@ docker compose up --build
 
 ## Contribution
 
-We welcome contributions from the community. Developers can create new plugins or improve existing ones to enhance FridonAI's capabilities.
+We welcome contributions from the community. Developers can create new plugins or improve existing ones to enhance ScenarioAI's capabilities.
 
 ## License
 
