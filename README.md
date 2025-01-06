@@ -1,6 +1,6 @@
 ## What's ScenarioAi?
 
-ScenarioAI is an open-source project dedicated to providing AI-powered tools and services for cryptocurrency analysis, blockchain operations, and more. Our mission is to simplify complex blockchain interactions and offer insightful analytics through an intuitive chat interface.
+ScenarioAI is an open-source project dedicated to providing AI-powered tools and services for cryptocurrency analysis, blockchain operations, and more. Our mission is to simplify complex blockchain interactions and offer insightful analytics through an intuitive chat interface.(https://x.com/ScenarioAgentAI)
 ### Key Points
 
 - **Products** 
