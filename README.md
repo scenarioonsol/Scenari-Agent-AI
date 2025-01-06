@@ -25,7 +25,7 @@ ScenarioAI is an open-source project dedicated to providing AI-powered tools and
 
 - **Use Implemented Crypto Tools**: Get access to powerful crypto tools or extend their capabilities by adding your custom features with [scenario-community](/libs/community/).
 
-- **Chat to Unlock FridonAI's Potential**: Through the ScenarioAI platform, you can interact with all of ScenarioAI's capabilities effortlessly—just by chatting.
+- **Chat to Unlock ScenarioAI's Potential**: Through the ScenarioAI platform, you can interact with all of ScenarioAI's capabilities effortlessly—just by chatting.
 
 
 ## Technical Overview
@@ -69,7 +69,7 @@ There are several `BaseUtility` extensions available, which can be used dependin
 - [`LLMUtility`](libs/core/plugins/utilities/llm.py): For language model interactions
 
 By leveraging this structure, developers can focus on implementing the core functionality of their plugins without worrying about the underlying architecture.
-[Plugins docs](/libs/core/fridonai_core/plugins/README.md).
+[Plugins docs](/libs/core/scenarioai_core/plugins/README.md).
 
 ### Put everything together
 
@@ -93,9 +93,9 @@ By leveraging this structure, developers can focus on implementing the core func
   - Publishing updates and notifications
   - Inter-service communication
 
-- You can see controller logic in `apps/fridon_brain/main.py` and service layer in `apps/fridon_brain/services`
+- You can see controller logic in `apps/scenario_brain/main.py` and service layer in `apps/scenario_brain/services`
 
-- [Nest.js application](apps/fridon_backend/) serves as the primary backend for the entire system. It facilitates communication between the front-end and Scenario Brain using Redis. Additionally, it implements various auxiliary functions, including: blockchain transaction generation, signing, sending, waiting for confirmation and so on.
+- [Nest.js application](apps/scenario_backend/) serves as the primary backend for the entire system. It facilitates communication between the front-end and Scenario Brain using Redis. Additionally, it implements various auxiliary functions, including: blockchain transaction generation, signing, sending, waiting for confirmation and so on.
 
 
 ### Scoring
@@ -117,7 +117,7 @@ The exact scoring criteria and implementation details can be found in the releva
 
 **Use scenario-core as a library**
 ```bash
-pip install fridonai-core
+pip install scenarioai-core
 ```
 [scenario-core documentation](libs/core/README.md)
 
@@ -146,7 +146,7 @@ docker compose up --build
 
 3. **Set Up Environment Variables**
 
-   Create a `.env` file in the `apps/scenario_brain` directory and add the necessary variables as defined in [`settings.py`](settings.py) or in [`.env.example`](apps/fridon_brain/.env.example)
+   Create a `.env` file in the `apps/scenario_brain` directory and add the necessary variables as defined in [`settings.py`](settings.py) or in [`.env.example`](apps/scenario_brain/.env.example)
 
 4. **Run the Application**
 
